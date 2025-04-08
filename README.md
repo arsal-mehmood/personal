@@ -1,1 +1,1 @@
-hi
+Simple login&Logout with php
